@@ -5,7 +5,8 @@
 
 | Details            |              |
 |-----------------------|---------------|
-| Programming Language: |  Python 3.5 or 3.6 |
+| Programming Language: |  Python 3.6.5 |
+
 
 ![people-counter-python](./images/people-counter-image.png)
 
