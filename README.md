@@ -1,5 +1,7 @@
 ## Intel Edge AI Scholarship - Nanodegree Project
 
+
+
 # Deploy a People Counter App at the Edge
 
 | Details            |              |
